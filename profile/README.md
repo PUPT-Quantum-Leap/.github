@@ -1,12 +1,22 @@
-## Hi there 👋
+# PUPT Quantum Leap
 
-<!--
+Welcome to the official GitHub organization for the Quantum Leap capstone project team at Polytechnic University of the Philippines Taguig (PUPT).
 
-**Here are some ideas to get you started:**
+## About Us
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We are a dedicated group of computer science students working on our capstone project, "Quantum Leap." This project aims to develop innovative web applications with AI integration, pushing the boundaries of technology and exploring the synergy between web development and artificial intelligence.
+
+## Our Mission
+
+Through collaboration and innovation, we strive to create impactful software that demonstrates our skills and contributes to the field of computer science. This repository serves as a central hub for our project development, documentation, and collaboration.
+
+## Get Involved
+
+- Explore our repositories to see our progress and contributions.
+- Feel free to reach out if you're interested in similar projects or collaborations.
+
+For more information, visit our [project wiki](link to wiki if available) or contact us via [email or other means].
+
+---
+
+*Empowering innovation, one quantum leap at a time.*
