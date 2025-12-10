@@ -4,7 +4,7 @@ Welcome to the official GitHub organization for the Quantum Leap capstone projec
 
 ## About Us
 
-We are a dedicated group of computer science students working on our capstone project, "Quantum Leap." This project aims to develop innovative web applications with AI integration, pushing the boundaries of technology and exploring the synergy between web development and artificial intelligence.
+We are a dedicated group of Information Technology students working on our capstone project, "Quantum Leap." This project aims to develop innovative web applications with AI integration, pushing the boundaries of technology and exploring the synergy between web development and artificial intelligence.
 
 ## Our Mission
 
